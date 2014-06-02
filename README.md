@@ -1,4 +1,5 @@
-# Linkmania is simple PopCap Games RocketMania clone written in Java
+# Linkmania 
+> simple PopCap Games RocketMania clone, written in Java
 
 ## Requirement: JRE 6 or later
 
