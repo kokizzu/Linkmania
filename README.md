@@ -1,15 +1,16 @@
 # Linkmania 
 > simple PopCap Games RocketMania clone, written in Java
 
-## Requirement: JRE 6 or later
+## Requirement
+-  JRE 6 or later
 
-## Run using:
+## Running
 -  play2p for 2 player mode
 -  vsAI for versus AI
 -  .sh for linux
 -  .bat for windows
 
-## Controls:
+## Controls
 
 ### Player 1 is AI if AI turned on..
 -  up - "w" / up 
@@ -40,6 +41,6 @@
 -  2007-07-17 bugfix for AI stopped in middle of the game
 -  2014-06-02 translating readme.txt to README.md in English
 
-> feel free to use and modify, don't forget to give credits and contribute back ^^
+> feel free to use and modify, don't forget to give credits and contribute back to the project ^^
 
 
