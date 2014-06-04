@@ -40,6 +40,7 @@
 -  2007-07-09 added shell scripts and minimum readme in Indonesian
 -  2007-07-17 bugfix for AI stopped in middle of the game
 -  2014-06-02 translating readme.txt to README.md in English
+-  2014-06-04 reformat source code, bugfix for invisible window
 
 > feel free to use and modify, don't forget to give credits and contribute back to the project ^^
 
